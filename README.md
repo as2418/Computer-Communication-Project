@@ -1,1 +1,3 @@
 # Computer-Communication-Project
+
+<p>The given scenario involves a medium-scale office that requires a network topology for its computer systems. A network topology refers to the layout or configuration of a computer network, and it can have a significant impact on the performance, scalability, and security of the network. In this case, the office requires a topology that can accommodate multiple devices, be easily managed and maintained, and provide high performance and security. After careful consideration, a star topology has been chosen as the most efficient and effective topology for the given scenario.</p>
